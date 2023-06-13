@@ -1,0 +1,9 @@
+[project]
+name = "iris-classifier"
+version = "0.0.1"
+description = ""
+readme = "README.md"
+require-python = ">3.8"
+[[project.authors]]
+email = "yeeemth@kakao.com"
+name = "Yeeun OH"
